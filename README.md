@@ -1,6 +1,21 @@
-# Hi, I'm Mohammed Fathi.
+# Hi, I'm Mohamed Fathy
 
-I build front-end projects with HTML, CSS and JavaScript.
+Front-end developer in training. I build small, complete websites with HTML, CSS and JavaScript, and every project here has a README that explains what it does, how it works and how to run it.
+
+## Live projects
+
+| Project | What it is |
+| --- | --- |
+| [قرية عروس النيل](https://mhmd7710d.github.io/cafe-app/) | Arabic cafe site and installable app (React + Vite) |
+| [What Is Islam](https://mhmd7710d.github.io/What-is-Islam/) | An introduction to Islam, with sources |
+| [Bankist app](https://mhmd7710d.github.io/Bankist-Project/) | Banking app simulation (JavaScript) |
+| [Bankist landing page](https://mhmd7710d.github.io/UI-for-Bank-Site-/) | Interactive banking landing page |
+| [Forkify](https://mhmd7710d.github.io/Forkify-project/) | Recipe search app |
+| [Mapty](https://mhmd7710d.github.io/Maphty-Project/) | Workout tracker on a map |
+| [Pig Game](https://mhmd7710d.github.io/Pig-Game-Project/) | Two-player dice game |
+| [Guess My Number](https://mhmd7710d.github.io/Guess-My-Number-Game/) | Number guessing game |
+| [Leon](https://mhmd7710d.github.io/HTML-And-CSS-Project-one/) | HTML and CSS landing page |
+| [Template Three](https://mhmd7710d.github.io/template-three/) | HTML and CSS multi-section template |
 
 ## Technologies
 
