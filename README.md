@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Fathi
 
-Front-end developer in training. I build small, complete websites with HTML, CSS and JavaScript, and every project here has a README that explains what it does, how it works and how to run it.
+Front-end developer in training. I build small, complete websites with HTML, CSS, JavaScript and TypeScript, and every project here has a README that explains what it does, how it works and how to run it.
 
 ## Live projects
 
@@ -19,7 +19,7 @@ Front-end developer in training. I build small, complete websites with HTML, CSS
 
 ## Technologies
 
-HTML, CSS, Sass, Tailwind CSS, JavaScript, React, Vue, algorithms and data structures.
+HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Redux, REST APIs, Git and GitHub, responsive design, algorithms and data structures.
 
 This profile is where I share my projects and explain what I build and improve.
 
