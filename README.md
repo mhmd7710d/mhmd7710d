@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Fathi
+# Hi, I'm Muhammad Fathi
 
 Front-end developer in training. I build small, complete websites with HTML, CSS, JavaScript and TypeScript, and every project here has a README that explains what it does, how it works and how to run it.
 
@@ -29,4 +29,4 @@ This profile is where I share my projects and explain what I build and improve.
 - Facebook: https://www.facebook.com/share/1CQhxpCeYL/
 - Instagram: https://www.instagram.com/mhmd7710d/
 - Email: muhammutfathi@gmail.com
-- WhatsApp: https://wa.me/201040428475?text=Hi+Mohammad%2C+I+found+your+project+on+GitHub.
+- WhatsApp: https://wa.me/201040428475?text=Hi+Muhammad%2C+I+found+your+project+on+GitHub.
