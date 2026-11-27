@@ -19,7 +19,7 @@ Front-end developer in training. I build small, complete websites with HTML, CSS
 
 ## Technologies
 
-HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Redux, REST APIs, Git and GitHub, responsive design, algorithms and data structures.
+HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Vue, Next.js, Redux, REST APIs, Git and GitHub, responsive design, algorithms and data structures.
 
 This profile is where I share my projects and explain what I build and improve.
 
